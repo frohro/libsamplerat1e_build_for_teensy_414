@@ -1,0 +1,1 @@
+This is a demo of how to build libsamplerate for the Teensy 4.1 using VScode and the Arduino framework.  I hope this helps someone else.  I was able to convert from 44.1 kHz to 100 kHz in 40% of real time in my test code using sinc interpolation (fast).
